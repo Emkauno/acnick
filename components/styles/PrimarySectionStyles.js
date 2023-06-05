@@ -52,6 +52,7 @@ width: 50%;
 display: flex;
 justify-content: center;
 align-items: center;
+border-radius: 20px;
 @media(max-width: 768px){
     width: 100%;
     align-items: center;
