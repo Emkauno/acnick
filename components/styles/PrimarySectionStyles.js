@@ -60,4 +60,5 @@ border-radius: 20px;
   }
 img {
   width: 100%;
+  border-radius: 20px;
 }`
