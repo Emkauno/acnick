@@ -130,6 +130,9 @@ display: flex;
 flex-direction: column;
 align-items: flex-start;
 justify-content: flex-start;
+h3 {
+  text-align: left;
+}
 p {
     margin-bottom: 16px;
 }
