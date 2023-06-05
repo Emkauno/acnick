@@ -53,6 +53,7 @@ export const Card = styled.div`
   ul {
     li {
       text-align: left;
+      line-height: 25px;
     }
   }
   p {
