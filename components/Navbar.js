@@ -20,7 +20,7 @@ const Navbar = () => {
             <Link href="/#servicios" scroll={false}>Servicios</Link>
             <Link href="/#nosotros" scroll={false}>Nosotros</Link>
             <Link href="/#misionyvision" scroll={false}>Misión y Visión</Link>
-            <a className="cta-navbar" href="https://wa.me/+56975487043?text=Hola%2C+estoy+interesado+en+los+servicios+de+Acnick">Contáctanos</a>
+            <a className="cta-navbar" href="https://wa.me/+56975487043?text=Hola%2C+me+interesan+los+servicios+de+Acnick">Contáctanos</a>
           </ul>
         </DesktopNavbar>
     
@@ -57,7 +57,7 @@ const Navbar = () => {
                 <Link href="/#servicios" scroll={false}>Servicios</Link>
                 <Link href="/#nosotros" scroll={false}>Nosotros</Link>
                 <Link href="/#misionyvision" scroll={false}>Misión y Visión</Link>
-                <Link className="cta-navbar" href="https://wa.me/+56975487043?text=Hola%2C+estoy+interesado+en+los+servicios+de+Acnick">Contáctanos</Link>
+                <Link className="cta-navbar" href="https://wa.me/+56975487043?text=Hola%2C+me+interesan+los+servicios+de+Acnick">Contáctanos</Link>
               </motion.ul>
             </>
           )}

@@ -17,7 +17,7 @@ const CtaSection = () => {
           proyecto se convierta en una realidad exitosa. <br/>
           ¡Comienza hoy mismo tu proyecto con nosotros! Haz clic aquí para contactarnos y juntos transformemos tus ideas en realidad.
         </p>
-        <a href="https://wa.me/+56975487043?text=Hola%2C+estoy+interesado+en+los+servicios+de+Acnick">Comienza aquí</a>
+        <a href="https://wa.me/+56975487043?text=Hola%2C+me+interesan+los+servicios+de+Acnick">Comienza aquí</a>
       </CtaHolder>
     </CtaContainer>
   );

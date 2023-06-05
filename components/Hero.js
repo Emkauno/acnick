@@ -14,7 +14,7 @@ const Hero = () => {
             distingue nuestro compromiso con la excelencia y la satisfacción del
             cliente.
           </p>
-          <a href="https://wa.me/+56975487043?text=Hola%2C+estoy+interesado+en+los+servicios+de+Acnick">Comienza aquí</a>
+          <a href="https://wa.me/+56975487043?text=Hola%2C+me+interesan+los+servicios+de+Acnick">Comienza aquí</a>
         </HalfSection>
         <HalfSection>
           <img src="/images/hero-img.svg" />

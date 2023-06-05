@@ -38,7 +38,7 @@ const TabsSection = () => {
             {items.map((item, i) => (
               <button
                 onClick={() => clickHandler(i + 1)}
-                className={activeTab === `tab-${i + 1}` && "active"}
+                className={activeTab === `tab-${i + 1}` ? "active" : null}
                 key={`tabItem-${i}`}
               >
                 {item.tabTitle && <h2>{item.tabTitle}</h2>}
