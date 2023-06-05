@@ -15,7 +15,6 @@ const CtaSection = () => {
           implementación y el seguimiento, estamos aquí para brindarte el apoyo
           y la orientación que necesitas. Contáctanos y juntos haremos que tu
           proyecto se convierta en una realidad exitosa. <br/>
-          ¡Comienza hoy mismo tu proyecto con nosotros! Haz clic aquí para contactarnos y juntos transformemos tus ideas en realidad.
         </p>
         <a href="https://wa.me/+56975487043?text=Hola%2C+me+interesan+los+servicios+de+Acnick">Comienza aquí</a>
       </CtaHolder>
