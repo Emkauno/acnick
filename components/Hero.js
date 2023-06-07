@@ -6,7 +6,7 @@ const Hero = () => {
     <HeroContainer>
       <HeroHolder>
         <HalfSection>
-          <h1>Asesorías y Consultorías en Ingenería</h1>
+          <h1>Asesorías y Consultorías en Ingeniería</h1>
           <p>
             Somos líderes en soluciones innovadoras y de calidad. Ofrecemos
             servicios de consultoría personalizados en diseño, planificación y
